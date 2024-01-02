@@ -11,6 +11,12 @@ Welcome to Promptify, a dynamic Next.js application that lets you share, explore
 - **Personalized Profile:** Manage your prompts effortlessly through your customized profile.
 - **Intuitive Search:** Find prompts organically using usernames, tags, or keywords.
 
+## Features
+
+![image](https://github.com/Damon248/promptify_next/assets/91674984/f7bd7ef0-4390-47b5-b2f1-85ad8c5d10c5)
+![image](https://github.com/Damon248/promptify_next/assets/91674984/c354ce0f-620c-4e54-89ff-9259aa66d6f3)
+![image](https://github.com/Damon248/promptify_next/assets/91674984/7e5bfade-448d-4aa6-b2fb-c039c2344ab4)
+
 ## Demo
 
 Explore Promptify: [Live Demo](https://promptify-next-i3cu-1r8ewmbrk-damon248.vercel.app/)
