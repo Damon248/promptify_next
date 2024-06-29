@@ -19,7 +19,7 @@ Welcome to Promptify, a dynamic Next.js application that lets you share, explore
 
 ## Demo
 
-Explore Promptify: [Live Demo](https://promptify-next-i3cu-1r8ewmbrk-damon248.vercel.app/)
+Explore Promptify: [Live Demo](https://promptify-next-i3cu.vercel.app)
 
 ## Tech Stack
 
