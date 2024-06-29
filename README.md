@@ -1,6 +1,6 @@
 # Promptify: Unleash Your Creativity!
 
-https://promptify-next-i3cu-1r8ewmbrk-damon248.vercel.app/
+https://promptify-next-i3cu.vercel.app
 
 Welcome to Promptify, a dynamic Next.js application that lets you share, explore, and engage with creative prompts. Whether you're an artist, writer, or simply seeking inspiration, Promptify provides a platform to spark your imagination.
 
